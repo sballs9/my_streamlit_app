@@ -1,7 +1,5 @@
-streamlit
-pandas
 numpy
+pandas
 plotly
-zipfile
 requests
-BytesIO
+streamlit
